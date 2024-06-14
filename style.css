@@ -33,6 +33,7 @@ body {
     border-radius: 5px;
     width: 100px;
     height: 30px;
+    font-family: 'cairo', 'changa', sans-serif;
     
 }
 .back-button:hover{
